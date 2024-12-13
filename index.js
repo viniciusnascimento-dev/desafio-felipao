@@ -1,5 +1,5 @@
 let nome = "Lion";
-let xp = 15000;
+let xp = 8100;
 let msg;
 
 if (xp > 0 && xp <= 1000) {
