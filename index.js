@@ -1,4 +1,4 @@
-let nome = "Lion";
+let nome = "Avatar";
 let xp = 8100;
 let msg;
 
